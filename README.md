@@ -1,10 +1,10 @@
-# Django Task Browser React 
+# Ads
 
-Django Task Browser React app.
+Ads
 
 ```sh
-git clone https://github.com/MervinPraison/DjangoTaskBrowserReact.git
-cd DjangoTaskBrowserReact
+git clone https://github.com/MervinPraison/AdsDetector.git
+cd AdsDetector
 npm install
 npm run dev
 ```
